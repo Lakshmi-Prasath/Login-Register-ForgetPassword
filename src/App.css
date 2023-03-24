@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+
+@font-face {
+  font-family: great-vibes;
+  src: url(./assets/fonts/Great_Vibes/GreatVibes-Regular.ttf);
+}
+
+.App {
+  text-align: center;
+}
+
+.pacifico {
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+}
+
+.zeyada {
+  font-family: 'Zeyada', cursive;
+  font-size: 20px;
+}
+
+.great-vibes {
+  font-family: great-vibes;
+  font-size: 20px;
+}

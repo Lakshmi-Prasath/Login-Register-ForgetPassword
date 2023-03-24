@@ -1,0 +1,133 @@
+@font-face {
+    font-family: poppins;
+    src: url(../fonts/Poppins/Poppins-Medium.ttf);
+}
+
+
+
+
+.loginRight {
+    align-items: center;
+    padding: 40px;
+    width: 400px;
+    margin: auto;
+}
+
+.login {
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+}
+
+
+
+.loginBorder {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    margin: 1.875rem auto;
+    max-width: 800px;
+    min-height: 500px px;
+    width: 100%;
+}
+
+.marginB10 {
+    margin-bottom: 10px;
+}
+
+.loginInput {
+    border: 1px solid #ddd;
+    box-shadow: none;
+    color: #333;
+    font-size: 15px;
+    height: 40px;
+    width: 100%;
+}
+
+.loginBtn {
+    width: 100%;
+    background-color: #FFBC53;
+    border: 1px solid #FFBC53;
+    border-radius: 4px;
+    color: white;
+}
+
+
+
+.loginBtn:hover {
+    background-color: #18aefa;
+    border: 1px solid #18aefa;
+}
+
+.loginWrap {
+    width: max-content;
+    margin: auto;
+    width: 65%;
+}
+
+.orLine {
+    background-color: #e5e5e5;
+    height: 1px;
+    margin-bottom: 0;
+    margin-top: 0;
+    display: block;
+}
+
+.loginOr {
+    color: #a0a0a0;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: relative;
+}
+
+.spanOr {
+    background-color: #fff;
+    display: block;
+    left: 50%;
+    margin-left: -20px;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+    width: 42px;
+}
+
+.forgetPassword {
+    color: #a0a0a0;
+    font-family: poppins, sans-serif;
+    text-decoration: none;
+}
+
+.forgetPassword:hover {
+    text-decoration: underline;
+    color: #a0a0a0;
+}
+
+.noLinkStyle {
+    text-decoration: none;
+}
+
+.accRegister {
+    color: #a0a0a0;
+    margin-top: 30px;
+}
+
+.loginWith {
+    color: #a0a0a0;
+}
+
+.regColor {
+    color: #333;
+    text-decoration: none;
+}
+
+.regColor:hover {
+    color: #333;
+    text-decoration: underline;
+}
